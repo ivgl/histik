@@ -4,12 +4,12 @@ state=
 	name="STATE_297" # Equatorial Guinea
 	manpower = 1
 	
-	state_category = weasteland
+	state_category = wasteland
 	
 	history={
 	}
 	provinces={ 
-		1903 8244 13015	
+		1903 8244	
 	}
 
 	local_supplies=0.0 

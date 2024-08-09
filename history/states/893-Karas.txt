@@ -5,13 +5,10 @@ state={
 	state_category = wasteland
 
 	history={
-
 	}
 
 	provinces={
-	
+		2229 5154 5189 7605 10963 
 	}
 	
-	buildings_max_level_factor=1.000
-	local_supplies=0.000
 }
