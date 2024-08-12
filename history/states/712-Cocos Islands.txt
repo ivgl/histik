@@ -6,18 +6,19 @@ state={
 	
 	history=
 	{
+		1936.1.1.13 = {
+			owner = SWE
+		}
 		owner = ENG
 		buildings = {
-			infrastructure = 2
-			13002 = {
+			infrastructure = 4
+			1171 = {
 				naval_base = 1
 			}
 		}
 	}
 	
 	provinces={
-		13002 
+		1171 
 	}
-
-	local_supplies=0.0 
 }

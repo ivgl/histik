@@ -1,28 +1,21 @@
-state = {
-	id = 649
-	name = "STATE_649"
+state=
+{
+	id=649
+	name="STATE_649"
 	state_category = tiny_island
-	manpower = 11532
-
-	history = {
-
-		owner = ECU
-		add_core_of = ECU
-
+	manpower=1
+	history={
+		1936.1.1.13 = {
+			owner = SWE
+		}
+		owner = ENG
 		buildings = {
-			infrastructure = 1
+			infrastructure = 2
 			5023 = {
 				naval_base = 1
-			}
-		}
 
-		victory_points = {
-			5023 1
+			}			
 		}
-		
 	}
-
-	provinces = { 5023 }
-
-	local_supplies = 0.0 
+	provinces= { 5023 }
 }

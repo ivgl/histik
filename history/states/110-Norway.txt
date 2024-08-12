@@ -1,41 +1,35 @@
 
-state = {
-	id = 110
-	name = "STATE_110"
-	manpower = 1057185
-	
-	state_category = large_town
-	
-	resources = {
-
+state={
+	id=110
+	name="STATE_110"
+	resources={
+		aluminium=8.000
 	}
 
-	history = {
+	history={
 		victory_points = {
-			6115 13 
+			6115 20 
 		}
-		victory_points = {
-			11151 2
-		}
-		
 		owner = NOR
 		buildings = {
-			infrastructure = 3
+			infrastructure = 4
 			arms_factory = 1
-			industrial_complex = 2
+			industrial_complex = 4
 			dockyard = 1
 			air_base = 4
 			6115 = {
 				naval_base = 6
-				coastal_bunker = 3
 			}
+
 		}
 		add_core_of = NOR
+
 	}
 
 	provinces={
-		14 3007 3171 6115 9103 11078 11151 11184  
+		10 14 27 100 111 133 144 179 3007 3021 3094 3105 3136 3171 6042 6072 6080 6115 6151 6160 7037 6964 6907 6894 6854 4112 4105 4021 3949 3926 3879 
 	}
-
-	local_supplies=0.0 
+	manpower= 20000
+	buildings_max_level_factor=1.000
+	state_category=city
 }
